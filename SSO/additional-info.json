@@ -199,6 +199,11 @@
       "study_program":"Bedah Torak Kardiovaskular (Cardiovascular and Thoracic Surgery)",
       "educational_program":"Spesialis I (Specialist Program)"
    },
+   "42.00.01.01": {
+       "faculty": "KEDOKTERAN",
+       "study_program": "Profesi Dokter (Medical Doctor)",
+       "educational_program": "Profesi Kls Internasional (Profession Program, Intl. Class)"
+    },
    "43.00.01.01":{
       "faculty":"KEDOKTERAN",
       "study_program":"Onkologi Radiasi (Radiation Oncology)",
